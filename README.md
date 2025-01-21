@@ -1,6 +1,6 @@
 # Entity Labeling and CoNLL Format Generation
 
-This repository is developed by `Getie Balew`  to create tools for dynamic entity labeling of Amharic messages and generate CoNLL formatted outputs. It is designed for processing data fetched from the `@modernshoppingcenter` e-commerce telegram channel, specifically targeting price, location, and product entities. The repository allows for dynamic batching of messages for labeling and exporting labeled data in the CoNLL format.
+This repository is developed by `shamil`  to create tools for dynamic entity labeling of Amharic messages and generate CoNLL formatted outputs. It is designed for processing data fetched from the `@modernshoppingcenter` e-commerce telegram channel, specifically targeting price, location, and product entities. The repository allows for dynamic batching of messages for labeling and exporting labeled data in the CoNLL format.
 
 ## Table of Contents
 
