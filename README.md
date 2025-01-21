@@ -27,8 +27,8 @@ This repository is developed by `Getie Balew`  to create tools for dynamic entit
 To get started, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/GetieBalew24/EthioMart_E-commerce.git
-cd EthioMart_E-commerce
+git clone https://github.com/shammuse/EthioMart_Ecommmerce_kifiya
+cd EthioMart_Ecommmerce_kifiya
 ```
 ## Usage
 
